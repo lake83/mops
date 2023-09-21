@@ -1,0 +1,32 @@
+<?php
+
+return [
+    'Water temperature in Odessa' => 'Температура воды в Одессе',
+    'Weather in Odessa' => 'Погода в Одессе',
+    'Water temperature in Odessa for September 2023' => 'Температура воды в Одессе на сентябрь 2023',
+    'What is the sea water temperature in September in Odessa?' => 'Какая температура воды в море в сентябре в Одессе?',
+    'Weather in Odessa for today and tomorrow' => 'Погода в Одессе на сегодня и завтра',
+    'Weather forecast for today and tomorrow in Odessa' => 'Прогноз погоды на сегодня и завтра в Одессе',
+    'Water temperature today' => 'Температура воды сегодня',
+    'Water temperature tomorrow' => 'Температура воды завтра',
+    'Average water temperature in September' => 'Средняя температура воды в сентябре',
+    'The warmest water will be' => 'Самая теплая вода будет',
+    'The coldest water will be' => 'Самая холодная вода будет',
+    '{max} September' => '{max} сентября',
+    '{min} September' => '{min} сентября',
+    'Water temperature in {year}' => 'Темп.води в {year}',
+    'Date' => 'Дата',
+    'Weather forecast for {week_day} (September {day}, {year})' => 'Прогноз погоды на {week_day} ({day} сентября {year} года)',
+    'today' => 'сегодня',
+    'tomorrow' => 'завтра',
+    'Weather forecast for September {day}' => 'Прогноз на {day} сентября',
+    'Air temperature °C' => 'Темпер.воздуха °C',
+    'day' => 'День',
+    'night' => 'Ночь',
+    'eve' => 'Вечер',
+    'morn' => 'Утро',
+    'State of the sky' => 'Состояние неба',
+    'Wind speed' => 'Скорость ветра',
+    'Humidity' => 'Влажность',
+    'm/s' => 'м/с'
+];
